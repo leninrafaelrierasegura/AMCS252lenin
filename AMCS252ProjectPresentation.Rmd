@@ -70,121 +70,121 @@ layout: true
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/000.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/001.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/002.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/003.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/004.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/005.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/006.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/007.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/008.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/009.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/010.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/011.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/012.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/013.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/014.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/015.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/016.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/017.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/018.png")
 ```
 
 ---
 
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri8/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri8/019.png")
 ```
 
 ---
@@ -205,121 +205,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/dopri5/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/dopri5/019.png")
 ```
 
 
@@ -339,121 +339,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/bosh3/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/bosh3/019.png")
 ```
 
 
@@ -491,121 +491,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fehlberg2/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fehlberg2/019.png")
 ```
 
 
@@ -628,121 +628,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/adaptive_heun/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/adaptive_heun/019.png")
 ```
 
 
@@ -771,121 +771,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/euler/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/euler/019.png")
 ```
 
 
@@ -908,121 +908,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/midpoint/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/midpoint/019.png")
 ```
 
 
@@ -1050,121 +1050,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/rk4/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/rk4/019.png")
 ```
 
 
@@ -1187,121 +1187,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/explicit_adams/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/explicit_adams/019.png")
 ```
 
 
@@ -1327,121 +1327,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/implicit_adams/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/implicit_adams/019.png")
 ```
 
 
@@ -1473,121 +1473,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/fixed_adams/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/fixed_adams/019.png")
 ```
 
 
@@ -1610,121 +1610,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux1/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux1/019.png")
 ```
 
 
@@ -1747,121 +1747,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux2/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux2/019.png")
 ```
 
 
@@ -1884,121 +1884,121 @@ layout: true
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/000.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/000.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/001.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/001.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/002.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/002.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/003.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/003.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/004.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/004.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/005.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/005.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/006.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/006.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/007.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/007.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/008.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/008.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/009.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/009.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/010.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/010.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/011.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/011.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/012.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/012.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/013.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/013.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/014.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/014.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/015.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/015.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/016.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/016.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/017.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/017.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/018.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/018.png")
 ```
 
 ---
   
 ```{r}
-knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Results/aux3/019.png")
+knitr::include_graphics("~/Desktop/Spring 2024/AMCS252lenin/Learning/aux3/019.png")
 ```
 
 
