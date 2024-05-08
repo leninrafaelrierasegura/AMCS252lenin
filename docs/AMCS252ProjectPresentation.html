@@ -29,7 +29,7 @@ class: center, middle, inverse, title-slide
 ### KAUST
 ]
 .date[
-### 07-05-2024
+### 08-05-2024
 Based on the article on Neural ordinary differential equations by Chen, Rubanova, Bettencourt, and Duvenaud [Che+18] and the torchdiffeq repository [Che18].
 ]
 
@@ -163,8 +163,15 @@ for some function `\(F\)`. Does this formula look familiar?
 
 - .content-box-blue[In practice, implementing this approach amounts to using an ODE solver during the NN's training.]
 ---
+## Solving an ODE
 
-## Soving an ODE | finite difference approach | 1
+## Finite difference approach
+
+## ODEnet approach
+
+---
+
+## Solving an ODE | Finite difference approach | 1
 
 We consider the following IVP
 
@@ -183,7 +190,7 @@ The associated Jacobian matrix is given by
 satisfying `\(-0.60038 \leq \lambda_{+}\leq 0\)` and `\(-1.20000 \leq \lambda_{-}\leq 0\)` for `\(y_1\in[-2,2]\)` and `\(y_2\in[-2,2]\)`.
 
 ---
-## Soving an ODE | finite difference approach | 2
+## Solving an ODE | Finite difference approach | 2
 
 Because the magnitude of these eigenvalues is relatively small, we expect that even the naive forward Euler's method will perform well. Here is its formulation.
 `\begin{align}
@@ -227,6 +234,29 @@ Image taken from this [website](https://en.wikipedia.org/wiki/List_of_Runge%E2%8
 
 ---
 
+## A note on abbreviations | 3
+
+- `rk4`: Explicit Runge-Kutta of order 4. Find below the Butcher tableau for this method.
+
+&lt;img src="Learning/rk4tableau.png" width="18%" style="display: block; margin: auto;" /&gt;
+
+Image taken from this [website](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods#Examples).
+
+---
+
+## A note on abbreviations | 4
+
+- `explicit_adams`: Explicit Adams-Bashforth methods.
+
+`$$U^{n+1}=U^n+k f\left(U^n\right)\tag{1-step}$$`
+`$$U^{n+2}=U^{n+1}+\frac{k}{2}\left(-f\left(U^n\right)+3 f\left(U^{n+1}\right)\right)\tag{2-step}$$`
+`$$U^{n+3}=U^{n+2}+\frac{k}{12}\left(5 f\left(U^n\right)-16 f\left(U^{n+1}\right)+23 f\left(U^{n+2}\right)\right)\tag{3-step}$$`
+`$$\quad U^{n+4}=U^{n+3}+\frac{k}{24}\left(-9 f\left(U^n\right)+37 f\left(U^{n+1}\right)-59 f\left(U^{n+2}\right)+55 f\left(U^{n+3}\right)\right)\tag{4-step}$$`
+
+Formulas taken from [Pag. 132, LeV07].
+
+---
+
 ## A note on learning | 1
 
 Let `\((\boldsymbol{X}, \boldsymbol{Y})\)` be the training data and let us consider a NN `\(N\)` given by `\(N(\boldsymbol{x}) = a_2(\boldsymbol{W}^{(2)}a_1(\boldsymbol{W}^{(1)}\boldsymbol{x}))\)`
@@ -254,7 +284,7 @@ Let `\((\boldsymbol{X}, \boldsymbol{Y})\)` be the training data and let us consi
 Visit this [page](https://playground.tensorflow.org/) to play with a NN.
 
 ---
-## ODEnet approach
+## Solving an ODE | ODEnet approach
 
 We consider the following NN
 .content-box-blue[
@@ -265,7 +295,8 @@ We consider the following NN
 ]
 where `\(\boldsymbol{u} = [u_1,u_2]^\top\)`, `\(\boldsymbol{W}^{(1)}\in\mathbb{R}^{50\times2}\)`, and `\(\boldsymbol{W}^{(2)}\in\mathbb{R}^{2\times50}\)`.
 
-In practice, we proceed as follows. Let `\(\boldsymbol{t} = [t_0,\dots,t_M]^\top\)` and `\(\boldsymbol{y}\)` denote the given data and `\(\boldsymbol{y}_\text{*}\)` be a random batch of `\(\boldsymbol{y}\)`. Let `\(\boldsymbol{t}_\circ = [t_0,\dots,t_K]^\top\)` for some `\(K\leq M\)`. During the forward pass, we compute
+In practice, we proceed as follows. Let `\(\boldsymbol{t} = [t_0,\dots,t_M]^\top\)` and `\(\boldsymbol{y}\)` denote the given data and `\(\boldsymbol{y}_\text{*}\)` be a random batch of `\(\boldsymbol{y}\)`. Let `\(\boldsymbol{t}_\circ = [t_0,\dots,t_K]^\top\)` for some `\(K\leq M\)`. 
+- During the forward pass, we compute
 `\begin{align}
 \label{nna}
     \hat{\boldsymbol{y}}_* = \texttt{odeint}(\texttt{func} = N,\; \texttt{y}_0 = \boldsymbol{y}_*,\; \texttt{t} = \boldsymbol{t}_\circ,\; \texttt{method} = \texttt{'method'})
@@ -273,106 +304,363 @@ In practice, we proceed as follows. Let `\(\boldsymbol{t} = [t_0,\dots,t_M]^\top
 
 - During back-propagation, we optimize `\(\texttt{loss} = \texttt{mean}|\boldsymbol{y}_*-\hat{\boldsymbol{y}}_*|\)`. 
 
-- Observe that `\(\texttt{func} =N\)`, instead of the RHS of \eqref{s}, as usual. 
-
-- This means that the NN `\(N\)` is actually learning the dynamic function of the system. 
-
----
-
-## test
-
-.center[![](output.gif)]
+- Observe that `\(\texttt{func} =N\)`, instead of the RHS of \eqref{s}, as usual. This means that the NN `\(N\)` is actually learning the dynamic function of the system. 
 
 ---
 class: center, middle
-#### dopri8
+#### dopri5
 
 ---
 
 layout: true
 
-# dopri8
+# dopri5
+
+---
+
+&lt;img src="Learning/png/000.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/001.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/002.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/003.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/004.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/013.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/021.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/031.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/png/094.png" width="90%" style="display: block; margin: auto;" /&gt;
 
 ---
 
 
-&lt;img src="Learning/dopri8/000.png" width="90%" style="display: block; margin: auto;" /&gt;
+layout: false
+class: center, middle
+
+#### rk4
 
 ---
 
-&lt;img src="Learning/dopri8/001.png" width="90%" style="display: block; margin: auto;" /&gt;
+layout: true
+
+# rk4
 
 ---
 
-&lt;img src="Learning/dopri8/002.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+&lt;img src="Learning/myrk4/000.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/003.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/001.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/004.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/002.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/005.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/003.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/006.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/004.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/007.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/005.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/008.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/006.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/009.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/007.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/010.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/008.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/011.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/009.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/012.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/010.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/013.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/011.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/014.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/012.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/015.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/013.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/016.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/014.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/017.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/015.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/018.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/016.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ---
 
-&lt;img src="Learning/dopri8/019.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="Learning/myrk4/017.png" width="40%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/myrk4/018.png" width="40%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/myrk4/019.png" width="40%" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="Learning/myrk4/020.png" width="40%" style="display: block; margin: auto;" /&gt;
+
+---
+
+layout: false
+
+## Another ODE | Decay process
+
+Let `\(u_1 = [A]\)`, `\(u_2 = [B]\)`, `\(u_3 = [C]\)`, and `\(u_4 = [D]\)`. Consider the decay process `\(A\stackrel{K_1}{\to} D \stackrel{K_3}{\to} B \stackrel{K_2}{\to} C\)` given by
+
+`$$\begin{bmatrix}u_1'\\u_2'\\u_3'\\u_4'\\\end{bmatrix} =
+\begin{bmatrix}-K_1&amp;0&amp;0&amp;0\\0&amp;-K_2&amp;0&amp;K_3\\0&amp;K_2&amp;0&amp;0\\K_1&amp;0&amp;0&amp;-K_3\\\end{bmatrix}
+\begin{bmatrix}u_1\\u_2\\u_3\\u_4\end{bmatrix},
+\qquad
+\begin{bmatrix}u_1(0)\\u_2(0)\\u_3(0)\\u_4(0)\\\end{bmatrix}=
+\begin{bmatrix}1\\0\\0\\0\\\end{bmatrix},\quad t\in[0,4],$$`
+where 
+
+$$
+`\begin{cases}
+    K_1&amp;=1\\
+    K_2&amp;=2\\
+    K_3&amp;=1000
+\end{cases}`
+$$
+
+---
+
+class: center, middle
+
+#### euler
+
+---
+
+layout: true
+
+# euler
+
+---
+
+&lt;img src="Learning/aux1/000.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/001.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/002.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/003.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/004.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/005.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/006.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/007.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/008.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/009.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/010.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/011.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/012.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/013.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/014.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/015.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/016.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/017.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/018.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux1/019.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+
+---
+
+layout:false
+class: center, middle
+
+#### explicit_adams
+
+---
+
+layout: true
+
+# explicit_adams
+
+---
+  
+&lt;img src="Learning/aux3/000.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/001.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/002.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/003.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/004.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/005.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/006.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/007.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/008.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/009.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/010.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/011.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/012.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/013.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/014.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/015.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/016.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/017.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/018.png" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+  
+&lt;img src="Learning/aux3/019.png" width="90%" style="display: block; margin: auto;" /&gt;
+
 
 ---
 
@@ -396,6 +684,10 @@ processing systems_ 31 (2018).
 
 [Che18] R. T. Q. Chen. _torchdiffeq_. 2018. URL:
 [https://github.com/rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq).
+
+[LeV07] R. J. LeVeque. _Finite difference methods for ordinary and
+partial differential equations: steady-state and time-dependent
+problems_. SIAM, 2007.
 
 [Xie24] Y. Xie. _xaringan: Presentation Ninja_. R package version
 0.30.1. 2024. URL:
